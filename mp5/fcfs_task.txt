@@ -1,0 +1,22 @@
+System Time[0].......Process[1] is Running.
+System Time[1].......Process[1] finished its job.
+System Time[1].......Process[2] is Running.
+System Time[2].......Process[2] finished its job.
+System Time[2].......Process[3] is Running.
+System Time[3].......Process[3] finished its job.
+System Time[3].......Process[4] is Running.
+System Time[4].......Process[4] finished its job.
+System Time[4].......Process[5] is Running.
+System Time[5].......Process[5] finished its job.
+System Time[5].......Process[6] is Running.
+System Time[6].......Process[6] finished its job.
+System Time[6].......Process[10] is Running.
+System Time[7].......Process[10] finished its job.
+System Time[7].......Process[7] is Running.
+System Time[8].......Process[7] finished its job.
+System Time[8].......Process[9] is Running.
+System Time[9].......Process[9] finished its job.
+System Time[9].......Process[8] is Running.
+System Time[10].......Process[8] finished its job.
+Average waiting time seconds: -6.2
+Average response time seconds: -1.1

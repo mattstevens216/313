@@ -1,0 +1,22 @@
+System Time[2].......Process[PID=1] is Running.
+System Time[3].......Process[PID=1] finished its job.
+wait time: -2System Time[4].......Process[PID=3] is Running.
+System Time[5].......Process[PID=3] finished its job.
+wait time: -4System Time[9].......Process[PID=7] is Running.
+System Time[10].......Process[PID=7] finished its job.
+wait time: -3System Time[12].......Process[PID=8] is Running.
+System Time[13].......Process[PID=8] finished its job.
+wait time: -1System Time[13].......Process[PID=9] is Running.
+System Time[14].......Process[PID=9] finished its job.
+wait time: -1System Time[14].......Process[PID=6] is Running.
+System Time[15].......Process[PID=6] finished its job.
+wait time: -2System Time[15].......Process[PID=10] is Running.
+System Time[16].......Process[PID=10] finished its job.
+wait time: -1System Time[16].......Process[PID=5] is Running.
+System Time[17].......Process[PID=5] finished its job.
+wait time: 7System Time[17].......Process[PID=2] is Running.
+System Time[18].......Process[PID=2] finished its job.
+wait time: 11System Time[18].......Process[PID=4] is Running.
+System Time[19].......Process[PID=4] finished its job.
+wait time: 9The average wait time 0.900 seconds. 
+The average response time 1.500 seconds. 

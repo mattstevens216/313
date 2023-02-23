@@ -1,0 +1,10 @@
+Usage: ./schedule --input_file <file> --policy <policy> --quantum <quantum>
+
+--------------------------------------------------------------------------
+<policy>:  FCFS | RR | SRTF | MLFQ
+--------------------------------------------------------------------------
+<file>:    file with PID, Arrival_Time and Execution Time, separated with a tab
+--------------------------------------------------------------------------
+<quantum>: positive integer value
+--------------------------------------------------------------------------
+Only use quantum when you want to use RoundRobin policy and make sure quantum is a positive number
